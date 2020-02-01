@@ -1,18 +1,34 @@
 # Salesforce-Administrator-Study-Guide
 
-One Paragraph of project description goes here
+This study guide is created from material that is current as of February 2020.  This study guide will pertain to the Salesforce Administrator Certification (see https://trailhead.salesforce.com/credentials/administrator) for additional information. While this guide pertains to the 'basic' administrator certification, an additional guide for the Salesforce Advanced Administrator Certification will be created.
 
-## Getting Started TEST
+Expected completion date for both guides is currently set for May 2020.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Getting Started
+
+Due to the amount of material that is covered in preparation for the exam, each section may be broken down into smaller parts. Based on the official Salesforce Administrator Certification Prep topics and their weight are as follows:
+  - Organizational setup (3%)
+  - User setup (7%)
+  - Security and access (13%)
+  - Standard and custom objects (14%)
+  - Sales and marketing applications (14%)
+  - Service and support applications (13%)
+  - Activity management and collaboration (3%)
+  - Data management (10%)
+  - Analytics—reports and dashboards (10%)
+  - Workflow/process automation (8%)
+  - Desktop and mobile administration (3%)
+  - AppExchange (2%)
+
+Feel free to click around and use whatever works.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Salesforce recommends about 6 months of experience as an administrator, but is not required. Outside of experience you should sign up for an official Trailhead account which will be vital in working through the different modules available. No other material is required, although this guide does use a variety of sources (see below).
 
-```
-Give examples
-```
+To sign up for a free Trailhead account, head to https://trailhead.salesforce.com/.
+
+Salesforce primarily functions as an SaaS/SaaP product and is accessible by most major browsers. For support see https://trailhead.salesforce.com/help?article=Trailhead-Browser-Support.
 
 ### Installing
 
