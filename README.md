@@ -1,8 +1,5 @@
 # Salesforce-Administrator-Study-Guide
 
-![image]()
-# Project Title
-
 One Paragraph of project description goes here
 
 ## Getting Started
