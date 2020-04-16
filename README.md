@@ -1,6 +1,6 @@
 # Salesforce-Administrator-Study-Guide
 
-This study guide is created from material that is current as of February 2020.  This study guide will pertain to the Salesforce Administrator Certification (see https://trailhead.salesforce.com/credentials/administrator) for additional information. While this guide pertains to the 'basic' administrator certification, an additional guide for the Salesforce Advanced Administrator Certification will be created.
+This study guide is created from material that is current as of May 2020.  This study guide will pertain to the Salesforce Administrator Certification (see https://trailhead.salesforce.com/credentials/administrator) for additional information. While this guide pertains to the 'basic' administrator certification, an additional guide for the Salesforce Advanced Administrator Certification will be created.
 
 Expected completion date for both guides is currently set for May 2020.
 
